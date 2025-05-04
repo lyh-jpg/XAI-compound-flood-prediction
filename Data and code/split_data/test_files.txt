@@ -1,9 +1,0 @@
-101020a3a_Depth.npy
-10a3a_Depth.npy
-201010a5a_Depth.npy
-202030a3a_Depth.npy
-203020a5a_Depth.npy
-305030a3a_Depth.npy
-30a1a_Depth.npy
-503030a1a_Depth.npy
-5105a5a_Depth.npy
